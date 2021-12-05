@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "*.pyx": "cython"
+    },
+    "files.exclude": {
+        "**/CMakeFiles": true
+    }
+}
